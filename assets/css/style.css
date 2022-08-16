@@ -93,7 +93,7 @@ main a {
 	font-weight: bold;
 }
 
-main a:before {
+main .link:before {
 	content: "➔";
 }
 
