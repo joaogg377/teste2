@@ -1,0 +1,127 @@
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: rgb(24, 24, 24);
+}
+
+main {
+	box-shadow: inset 10px 10px 20px #212121;
+}
+
+header {
+	background: rgb(33, 33, 33);
+}
+
+header img {
+	width: 35%;
+	height: 70%;
+	margin-left: 375px;
+}
+
+main h2, main h3, main h4, main h5, main h6 {
+	color: #ffffff;
+	font-size: 25px;
+	padding: 30px 40px 30px;
+}
+
+#mensagem:after {
+	content: "📚"
+}
+
+#mensagem {	
+	position: relative;
+	left: 825px;
+	font-size: 30px
+}
+
+#agrinho {
+	width: 20%;
+	float: right;
+	position: relative;
+	right: 150px;
+	
+}
+
+main p  {
+	color: #ffffff;
+	padding: 0px 40px 20px;
+	margin-right: 450px;
+	font-size: 17px;
+}
+
+main em {
+	font-weight: bold;
+
+}
+
+main ul {
+	color: #ffffff; 
+	padding: 0px 40px 20px;
+	margin-right: 450px;
+	font-size: 17px;
+}
+
+main .paragrafo {
+	padding: 0px 40px 20px;
+	margin-right: 100px;
+	font-size: 18px;
+}
+
+hr {
+	margin-top: 30px;
+	width: 80%;
+	height: 3px
+}
+
+main img {
+	padding-top: 30px;
+	width: 50%;
+	margin-left: 300px;
+
+}
+
+main .jogos:after {
+	content: "⇩";
+	padding: 0px 40px 20px;
+	margin-right: 100px;
+	font-size: 18px;
+}
+
+main a {
+	color: 	#ffc0cb;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+main a:before {
+	content: "➔";
+}
+
+main .jogos {
+	padding-bottom: 30px;
+
+}
+
+#degrade {
+	background: linear-gradient(#181818, #212121);
+	
+}
+
+footer {
+	background: rgb(33, 33, 33);
+}
+
+footer img {
+	padding-top: 50px;
+	width: 10%;
+	position: relative;
+	left: 550px;
+
+}
+
+footer p {
+	text-align: center;
+}
+
+
+
